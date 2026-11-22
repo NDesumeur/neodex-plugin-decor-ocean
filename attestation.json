@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorocean",
+  "repo": "NDesumeur/neodex-plugin-decor-ocean",
+  "version": "1.0.0",
+  "sha256": "76abc7f19ed9cf1c2b09ed5cb7e96d21aa342c771ea05c535c99590b3f076851",
+  "approvedAt": "2026-11-22T19:05:25.661Z",
+  "neobase": ">=4.1.0",
+  "signature": "FIxIpFTEOTX/hfDN0PZXnehCgrlqfjZV/6yiuQNPkKXhvWJ6bcxh+R4KEZhKPBFHUrq16LNUSqtZheBdNQe5DQ=="
+}
